@@ -1,4 +1,4 @@
-from stock_solution import Stock, Item
+from stock import Stock, Item
 
 def test_summary_multiple_items():
     stock = Stock()
